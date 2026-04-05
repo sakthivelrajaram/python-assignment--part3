@@ -1,0 +1,2 @@
+[2025-01-15 14:32:01] ERROR in get_data: ConnectionError — internet issue
+[2025-01-15 14:33:10] ERROR in lookup: HTTPError — 404 id 999
